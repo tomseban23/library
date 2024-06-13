@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "246374875109",
+    "project_id": "fir-new-587ad",
+    "storage_bucket": "fir-new-587ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246374875109:android:dcb2c3a56ae5342ef6790c",
+        "android_client_info": {
+          "package_name": "com.tom.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH91k0G6Ie-DvR4m3ja0YDWIguss-4038"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
